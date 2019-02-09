@@ -1,0 +1,12 @@
+Discussion Log
+Assignment: Programming - Project 1
+Name: Murtaza Nipplewala
+
+I finished this code by myself without consulting anyone or any websites.
+I did refer to prof. mahadev's notes just to check if everything is correct.
+I did run into some hickups but they were relating to math not the code.
+For extra credit code I used stackoverflow website.
+
+What I learned:  
+
+taking multiple user inputs, declaring, initializing and casting variables with data types, Math.PI and Math.round.
